@@ -28,8 +28,10 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
 </p>
 ---
+
 <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://buymeacoffee.com/huntertagog" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 ---
 <h3>My GitHub contributions summary</h3>
 
