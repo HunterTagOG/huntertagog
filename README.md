@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Dennis Kusche!
 ---
-![](https://komarev.com/ghpvc/?username=HunterTagOG&color=green)
+![https://komarev.com/ghpvc/?username=HunterTagOG&color=green]()
 ---
 <h3>When I code, I rely on</h3>
 <p>
