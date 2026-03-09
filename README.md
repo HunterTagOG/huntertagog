@@ -38,7 +38,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HunterTagOG&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![HunterTagOG's GitHub stats](https://github-readme-stats.vercel.app/api?username=HunterTagOG&show_icons=true&theme=dark)
 ---
 <h3>Here are my Socials</h3>
 
